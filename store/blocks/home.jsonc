@@ -1,15 +1,8 @@
 {
   "store.home": { 
     "blocks": [
-      "rich-text"
+      "slider-layout#home"
     ]
-  },
-  "rich-text": { 
-    "props": { 
-      "text": "UP Medal",
-      "textAlignment": "CENTER",
-      "textPosition": "CENTER",
-      "font": "t-heading-1"
-    }
   }
+
 }
