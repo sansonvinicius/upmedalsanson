@@ -12,7 +12,8 @@
   },
   "sticky-layout#desktop": {
     "props": {
-      "blockClass": "sticky-header"
+      "blockClass": "sticky-header",
+      "background":"#03044e"
     },
     "children": ["flex-layout.row#desktop"]
   },

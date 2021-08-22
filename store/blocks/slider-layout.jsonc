@@ -8,7 +8,8 @@
       },
       "infinite": true,
       "showNavigationArrows": "desktopOnly",
-      "blockClass": "carousel"
+      "blockClass": "carousel",
+      "base--inverted": "#03044e"
     },
     "children": ["image#carousel1", "image#carousel2"]
   },
